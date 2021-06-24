@@ -1,5 +1,10 @@
 #include "holberton.h"
 
+/**
+ * main - main function of the program
+ *
+ * Return: 0 on OK
+ */
 int main(void)
 {
 	_putchar('H');
